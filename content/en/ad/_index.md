@@ -28,7 +28,7 @@ and the order are in [PLAN.md](https://github.com/go-scikit/roadmap/blob/main/PL
 
 The references the work starts from (bibliography first):
 
-- [Griewank and Walther, *Evaluating Derivatives*, 2nd ed., SIAM 2008](https://doi.org/10.1137/1.9780898717761)
+- Griewank and Walther, *Evaluating Derivatives*, 2nd ed., SIAM 2008, doi:10.1137/1.9780898717761
 - [Baydin, Pearlmutter, Radul and Siskind, Automatic differentiation in machine learning: a survey, JMLR 18(153), 2018](https://jmlr.org/papers/v18/17-468.html)
 - [The Go language specification (no operator overloading; type parameters)](https://go.dev/ref/spec)
 - [Tapenade, source transformation](https://tapenade.gitlabpages.inria.fr/tapenade/distrib/LICENSE.html)
